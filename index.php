@@ -34,7 +34,7 @@ $name = "SM Mehndi Artist";
      </div>
     </div>
         <a href="contact.html">CONTACT</a>
-        <a href="booking" class="book-btn">BOOK APPOINTMENT</a>
+        <a href="book.php" class="book-btn">BOOK APPOINTMENT</a>
     </nav>
 
     <div class="menu" onclick="toggleMenu()">☰</div>
@@ -60,7 +60,7 @@ $name = "SM Mehndi Artist";
                 EXPLORE DESIGNS ➜
             </a>
 
-            <a href="booking" class="secondary-btn">
+            <a href="book.php" class="secondary-btn">
                 BOOK APPOINTMENT 📅
             </a>
         </div>
